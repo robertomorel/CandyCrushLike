@@ -1,0 +1,7 @@
+- Anotações -
+
+- RigidBody - Constraints
+    -- Congela a posição x ou y, mesmo com física
+    -- Congela a rotação z, mesmo com física
+
+- 
